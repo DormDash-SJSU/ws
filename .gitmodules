@@ -1,0 +1,9 @@
+[submodule "src/ros2_gps_pub"]
+	path = src/ros2_gps_pub
+	url = https://github.com/DormDash-SJSU/ros2_gps_pub.git
+[submodule "src/pkg_lidar_py"]
+	path = src/pkg_lidar_py
+	url = https://github.com/DormDash-SJSU/pkg_lidar_py.git
+[submodule "src/darknet_ros"]
+	path = src/darknet_ros
+	url = https://github.com/DormDash-SJSU/darknet_ros.git
